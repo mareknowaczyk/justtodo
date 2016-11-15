@@ -1,0 +1,9 @@
+{
+  "name" : "justtodo",
+  "author" : "Marek Nowaczyk",
+  "maintainer" : "Marek Nowaczyk",
+  "repository" : {"type": "git", "url": "https://github.com/mareknowaczyk/justtodo.git"},
+  "dependencies" : {
+  },
+  "description" : "Vundle Vim plugin - just a simple todo listy plugin"
+}
